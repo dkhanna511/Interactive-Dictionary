@@ -1,1 +1,2 @@
-# Interactive-Dictionary
+# Interactive-Dictionary 
+The following file conntains a python based cpde for an interactive dictionary. The code used the data of an actual dictionary in the form of json format. It takes the data from the user about which word to search for. If the word is  found in the file, it displays its meaning, otherwise if he word  relates to some other word with a slightly different spelling, it recommends some other word to the user and asks to show its meaning.
